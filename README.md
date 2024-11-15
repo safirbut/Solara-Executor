@@ -20,7 +20,6 @@ Solara-Executor provides detailed logging and reporting capabilities, allowing u
 
 # Instructions
 ![images](https://github.com/user-attachments/assets/447fec2b-a291-4b22-b5ec-b145d34947ce)
-* Turn off Microsoft defender(it can delete files) 🟢
 
 * Launch Solara.exe 🟢
 
